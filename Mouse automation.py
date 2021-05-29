@@ -16,3 +16,4 @@ pyautogui.moveTo(x=1735, y= 424,duration=1 )
 pyautogui.leftClick(x=1735, y= 424)
 pyautogui.press('F11')
 pyautogui.confirm('Succesfully subscribed..!!')
+
